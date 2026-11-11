@@ -4,7 +4,7 @@ const http = require('http');
 const CONFIG = {
   host: '9a3smp.mcsh.gg',
   port: 25565,
-  username: 'Bot_AFK_247',
+  username: 'Bot_AFK_247_3',
   version: '1.20',
   viewDistance: '2',
   reconnectDelay: 15000,
